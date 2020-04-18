@@ -1,0 +1,65 @@
+#allDiagrams{
+                width: 100%;
+            }
+        /*    #mainchart {
+                        margin: 0px auto;
+                        margin-top: 10px;
+                        position: absolute;
+                        float: left;
+                        padding: 10px 10px 10px 10px;
+                        width: 34%;
+                        height: 800px;
+
+                      }*/
+            #diagramNo1{
+                  margin-top: 100px;
+                float: left;
+                width: 49%;
+                height: 600px;
+                 border: 5px solid white;
+              
+            }
+              #diagramNo2 {
+                  margin-top: 100px;
+                float:right;
+                color: white;
+                width: 49%;
+                height: 600px;
+                 border: 5px solid white;
+                
+              }
+               #diagramNo3 {
+            
+              
+                width: 100%;
+                height: 1000px;
+                 border: 5px solid white;
+                 background-color: #666666;
+              }
+              #diagramNo4 {
+                width: 100%;
+                height: 700px;
+                border: 5px solid white;
+                background-color: #666666;
+                }
+
+            h1{
+                padding: 20px 20px 20px 650px;
+                font-family: Arial;
+                font-size: 2.5em;
+                color:white
+                
+            }
+            h4{
+                padding: 10px 10px 10px 300px;
+                font-family: Arial;
+                font-size: 2.5em;
+                color:white
+                
+            }
+            body{
+                margin-left: 10px;
+                margin-right: 10px;
+                color: white;
+                background-color: #000000;
+            }
